@@ -7,7 +7,7 @@ Here I will be writing out my documentation on my own home lab, which has an int
 
 Internal:
 - Kali Linux
-- Apline Linux
+- Alpine Linux
   - DNS
 - NixOS / Ubuntu (still deciding)
    - Web Server
