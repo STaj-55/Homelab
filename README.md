@@ -1,4 +1,4 @@
-# Homelab
+# Homelab | Infrastructure | Network Security | Security Operations
 This repo will showcase my own dedicated homelab that is setup through VirtualBox.
 
 I recently competed in a blue team infrastructure competition known as CNY Hackathon, and I had a very fun experience competeting. So much so, that I wanted to create my own lab so I can do it again.
