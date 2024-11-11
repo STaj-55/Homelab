@@ -10,7 +10,7 @@ Internal:
   - OpenVAS 
 - Alpine Linux
   - DNS
-- NixOS / Ubuntu (still deciding)
+- Sparky Linux
   - Web Server
   - SSH Server
   - Files 
