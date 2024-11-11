@@ -8,10 +8,11 @@ Here I will be writing out my documentation on my own home lab, which has an int
 Internal:
 - Kali Linux
 - Apline Linux
-  - Web Server
-  - SSH Server
-  - Files
   - DNS
+- NixOS / Ubuntu (still deciding)
+   - Web Server
+  - SSH Server
+  - Files 
 - Windows Active Directory 
 - Router
   -pfSense 
