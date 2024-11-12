@@ -114,5 +114,20 @@ As we can see from our results, forwarding is functional and DNS is up and opera
 
 We will be back here to add new A records for our new servers that will be coming live soon.
 
+Steps to ensure that configurations and backups are consistent:
+1. Verify if lbu is configured correctly
+   - cat /etc/lbu/lbu.conf
+   - vi /etc/lbu/lbu.conf
+     - LBU_BACKDIR=/root
+3. Mount a writable backup directory
+   - mkdir -p; /media/usb
+   - vi /etc/lbu/lbu.conf
+     - LBU_BACKUPDIR=/media/usb
+4. Run lbu to save the config
+   - lbu commit
+   - lbu status (make sure there is an output)
+5. If nothing else works switch from ram to sys mode
+   - setup-bootable
 
+Note: None of the Lbu commands were working and persisting so I instead saved a snapshot. Work smarter not harder :|
 
