@@ -16,7 +16,7 @@ Internal:
   - Files 
 - Windows Active Directory 
 - Router
-  -pfSense 
+  - pfSense 
 - IDS/IPS
   -Suricata 
   
