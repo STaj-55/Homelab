@@ -18,7 +18,7 @@ Internal:
 - Router
   - pfSense 
 - IDS/IPS
-  -Suricata 
+  - Suricata 
   
 External:
 - Metasploitable VM
