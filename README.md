@@ -14,7 +14,8 @@ Internal:
   - Web Server
   - SSH Server
   - Files 
-- Windows Active Directory 
+- Active Directory
+  - Windows Server 2016  
 - Router
   - pfSense 
 - IDS/IPS
